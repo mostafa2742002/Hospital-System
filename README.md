@@ -34,10 +34,6 @@ This project is a Hospital Management System built with **Node.js**, **Express.j
 2. **Appointment Booking:**
    - Patients can choose available appointment times with their preferred doctors.
 
-## Project Structure
-
-The project follows a modular structure, with separate routes and models for patients, doctors, and administrators. The main server file is `server.js`.
-
 ### Technologies Used
 
 - **Node.js:** A JavaScript runtime for building server-side applications.
